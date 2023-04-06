@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>dilfal</title>
+    <link>https://dilfal.github.io/</link>
+    <description>Recent content on dilfal</description>
+    <image>
+      <title>dilfal</title>
+      <url>https://dilfal.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://dilfal.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 06 Apr 2023 17:23:56 +0200</lastBuildDate><atom:link href="https://dilfal.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Come sincronizzare le cartelle con Syncthing</title>
+      <link>https://dilfal.github.io/posts/how_to_use_syncthing/</link>
+      <pubDate>Thu, 06 Apr 2023 17:23:56 +0200</pubDate>
+      
+      <guid>https://dilfal.github.io/posts/how_to_use_syncthing/</guid>
+      <description>1. Cos&amp;rsquo;è Syncthing Syncthing è un meraviglioso software libero, open-source, peer-to-peer, col quale sincronizzare cartelle.
+2. Come installarlo su Linux Debian/Ubuntu/Linux Mint/Pop!_OS/MX Linux sudo apt update sudo apt install syncthing Altrimenti:
+Aggiungi le release PGP keys: sudo curl -o /usr/share/keyrings/syncthing-archive-keyring.gpg https://syncthing.net/release-key.gpg Il canale &amp;lsquo;stable&amp;rsquo; è aggiornato con le stable release builds solitamente ogni primo martedì del mese, il canale &amp;lsquo;candidate&amp;rsquo; è aggiornato con le release candidate builds ogni secondo martedì del mese, anticipando il canale &amp;lsquo;stable&amp;rsquo; di circa tre settimane.</description>
+    </item>
+    
+    <item>
+      <title>Installare Syncthing su un NAS Synology</title>
+      <link>https://dilfal.github.io/posts/syncthing--synology-nas/</link>
+      <pubDate>Wed, 05 Apr 2023 16:40:22 +0200</pubDate>
+      
+      <guid>https://dilfal.github.io/posts/syncthing--synology-nas/</guid>
+      <description>Apri Package Center
+Installa Docker
+Apri File Station
+Apri la cartella &amp;lsquo;docker&amp;rsquo; sulla sinistra e crea al suo interno 3 nuove cartelle chiamate syncthing, data1, data2
+Apri Control Panel, apri Task Scheduler, clicca su Create -&amp;gt; Scheduled Task -&amp;gt; User-defined script
+General:
+Task: Installazione Syncthing User: root Togli la spunta da &amp;lsquo;Enabled&amp;rsquo; Schedule:
+Spunta &amp;lsquo;Run on the following date&amp;rsquo;, lascia la data di oggi, &amp;lsquo;Do not repeat&amp;rsquo; Task settings:</description>
+    </item>
+    
+    <item>
+      <title>GrapheneOS: riprendere il controllo del proprio telefono</title>
+      <link>https://dilfal.github.io/posts/grapheneos/</link>
+      <pubDate>Wed, 05 Apr 2023 14:05:09 +0200</pubDate>
+      
+      <guid>https://dilfal.github.io/posts/grapheneos/</guid>
+      <description>Cos&amp;rsquo;è GrapheneOS GrapheneOS è un sistema operativo open source basato su Android Open Source Project (AOSP), incentrato sulla sicurezza e sulla privacy. Il progetto è stato fondato da Daniel Micay nel 2014.
+Telefoni ufficialmente supportati Pixel 7 Pro (cheetah) Pixel 7 (panther) Pixel 6a (bluejay) Pixel 6 Pro (raven) Pixel 6 (oriole) Pixel 5a (barbet) Pixel 5 (redfin) Pixel 4a (5G) (bramble) Pixel 4a (sunfish) Installazione tramite Web installer Il sistema operativo si installa facilmente sul telefono tramite il Web Installer, basta collegare al pc il vostro telefono Pixel con un cavo di buona qualità (il primo cavo dati che ho usato non funzionava) e seguire le istruzioni.</description>
+    </item>
+    
+    
+    
+  </channel>
+</rss>
