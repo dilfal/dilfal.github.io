@@ -19,7 +19,7 @@
       <guid>https://dilfal.github.io/posts/useful_programs/</guid>
       <description>Arch Linux yay pacman -Syyu --needed git base-devel git clone https://aur.archlinux.org/yay.git cd yay makepkg -si https://aur.chaotic.cx/
 Browser sudo pacman -S brave-bin Notes sudo pacman -S obsidian yay logseq-desktop USB Ventoy A new multiboot USB solution
-yay ventoy-bin KDE Window Title Applet yay kirigami2 yay kdeclarative yay kirigami-addons yay plasma5-applets-window-title Window Buttons Applet https://github.com/psifidotos/applet-window-buttons/blob/master/INSTALLATION.mdcaffeine-ng
+yay ventoy-bin KDE Window Title Applet yay kirigami2 yay kdeclarative yay kirigami-addons yay plasma5-applets-window-title Window Buttons Applet https://github.com/psifidotos/applet-window-buttons/blob/master/INSTALLATION.md
 Disabilitare lo screensaver yay caffeine-ng Gestire i PDF yay zotero-bin Sincronizzare cartelle sudo pacman -S syncthing Tailscale https://tailscale.</description>
     </item>
     
