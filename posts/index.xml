@@ -10,7 +10,18 @@
       <link>https://dilfal.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 18 Apr 2023 13:24:46 +0200</lastBuildDate><atom:link href="https://dilfal.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 24 Apr 2023 14:46:36 +0200</lastBuildDate><atom:link href="https://dilfal.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Home Server su un Thinkpad R61i</title>
+      <link>https://dilfal.github.io/posts/home_server/</link>
+      <pubDate>Mon, 24 Apr 2023 14:46:36 +0200</pubDate>
+      
+      <guid>https://dilfal.github.io/posts/home_server/</guid>
+      <description>Introduzione Ho un NAS Synology ma volevo provare a far un altro server con un Thinkpad in disuso, un R61i con 4GB di RAM e un SSD da 128GB. Ho ordinato un caddy per sostituire il lettore CD con un HDD da 2.5 da 1TB e ampliarne così lo spazio. Per questa guida utilizzereremo la versione minimal di Xubuntu.
+Procedimento Per prima cosa installiamo SSH.
+sudo apt update sudo apt install openssh-server Adesso verifichiamo che il servizio SSH sia attivo</description>
+    </item>
+    
     <item>
       <title>Programmi utili</title>
       <link>https://dilfal.github.io/posts/useful_programs/</link>
