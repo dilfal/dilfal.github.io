@@ -17,7 +17,7 @@
       <pubDate>Mon, 24 Apr 2023 14:46:36 +0200</pubDate>
       
       <guid>https://dilfal.github.io/posts/home_server/</guid>
-      <description>Introduzione Ho un NAS Synology ma volevo provare a far un altro server con un Thinkpad in disuso, un R61i con 4GB di RAM e un SSD da 128GB. Ho ordinato un caddy per sostituire il lettore CD con un HDD da 2.5 da 1TB e ampliarne così lo spazio. Per questa guida utilizzereremo la versione minimal di Xubuntu.
+      <description>Introduzione Ho un NAS Synology ma volevo provare a far un altro server con un Thinkpad in disuso, un R61i con 4GB di RAM e un SSD da 128GB. Ho ordinato un caddy per sostituire il lettore CD con un HDD da 2.5 da 1TB e ampliarne così lo spazio. Per questa guida utilizzereremo MX Linux.
 Procedimento Per prima cosa installiamo SSH.
 sudo apt update sudo apt install openssh-server Adesso verifichiamo che il servizio SSH sia attivo</description>
     </item>
