@@ -20,7 +20,7 @@
       <description>Introduzione Ho un NAS Synology ma volevo provare a far un altro server con un Thinkpad in disuso, un R61i con 4GB di RAM e un SSD da 128GB. Ho ordinato un caddy per sostituire il lettore CD con un HDD da 2.5 da 1TB e ampliarne così lo spazio.
 Utilizzeremo Debian.
 Procedimento Per prima cosa installiamo SSH.
-sudo apt update sudo apt install openssh-server Adesso verifichiamo che il servizio SSH sia attivo</description>
+sudo apt update sudo apt install openssh-server sudo systemctl enable ssh sudo systemctl start ssh Adesso verifichiamo che il servizio SSH sia attivo</description>
     </item>
     
     <item>
